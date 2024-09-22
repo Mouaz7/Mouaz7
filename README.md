@@ -52,8 +52,19 @@ I have a passion for coding, building web applications, and improving my skills 
 </p>
 
 <h3 align="left">📊 Most Used Languages:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouaz7&show_icons=true&locale=en&layout=compact" alt="mouaz7" /></p>
+<ul>
+  <li><span style="color: #f1e05a;">JavaScript</span>: 50%</li>
+  <li><span style="color: #563d7c;">CSS</span>: 25%</li>
+  <li><span style="color: #2b7489;">TypeScript</span>: 16.44%</li>
+  <li><span style="color: #a91e50;">EJS</span>: 15%</li>
+  <li><span style="color: #f34b7d;">C++</span>: 10%</li>
+  <li><span style="color: #e34c26;">HTML</span>: 10%</li>
+</ul>
+
+<!-- Ta bort denna rad som hämtar den dynamiska grafen
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mouaz7&show_icons=true&locale=en&layout=compact" alt="mouaz7" /></p> -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouaz7&show_icons=true&locale=en" alt="mouaz7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouaz7&" alt="mouaz7" /></p>
+
