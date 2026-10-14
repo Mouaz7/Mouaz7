@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="240" viewBox="0 0 1100 240" role="img" aria-labelledby="title">
+<title id="title">Mouaz Naji</title>
+<defs><linearGradient id="navy" x2="1" y2="1"><stop stop-color="#071A3D"/><stop offset=".55" stop-color="#10264D"/><stop offset="1" stop-color="#07466A"/></linearGradient><radialGradient id="glow"><stop stop-color="#25D9F8" stop-opacity=".22"/><stop offset="1" stop-color="#25D9F8" stop-opacity="0"/></radialGradient><linearGradient id="cyan" x2="0" y2="1"><stop stop-color="#C3F7FF"/><stop offset="1" stop-color="#25D9F8"/></linearGradient><clipPath id="wave"><path d="M0 0h1100v186c-180-52-300 72-550 22S180 188 0 217Z"/></clipPath></defs>
+<g clip-path="url(#wave)"><rect width="1100" height="240" fill="url(#navy)"/><ellipse cx="550" cy="96" rx="420" ry="205" fill="url(#glow)"/><g fill="none" stroke="#25D9F8" stroke-opacity=".19" stroke-width="1.5"><path d="M0 55h150l36 36h86m828-39H953l-36 36h-86"/><circle cx="272" cy="91" r="4"/><circle cx="831" cy="88" r="4"/></g><text x="550" y="132" fill="url(#cyan)" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="700" letter-spacing="-2">Mouaz Naji</text></g>
+<path d="M0 217c180-29 300-59 550-9s370-74 550-22" fill="none" stroke="#25D9F8" stroke-opacity=".65" stroke-width="2"/>
+</svg>

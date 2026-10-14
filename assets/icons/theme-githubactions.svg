@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><rect width="48" height="48" rx="8" fill="#00D9E8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><defs><linearGradient id="profileTile" x2="1" y2="1"><stop stop-color="#183761"/><stop offset="1" stop-color="#071A3D"/></linearGradient></defs><rect x=".75" y=".75" width="46.5" height="46.5" rx="9" fill="url(#profileTile)" stroke="#2585AF" stroke-width="1.5"/>
   <svg x="5" y="5" width="38" height="38" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
         <g transform="translate(0, 0)">
           <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#242938"/>
+<rect width="256" height="256" rx="60" fill="#10264D"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M76.0652 43C94.3271 43 109.13 57.8034 109.13 76.0652C109.13 94.3271 94.3271 109.13 76.0652 109.13C57.8034 109.13 43 94.3271 43 76.0652C43 57.8034 57.8034 43 76.0652 43Z" stroke="#2088FF" stroke-width="7.34783" stroke-linecap="round" stroke-linejoin="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M123.826 109.13C136 109.13 145.87 119 145.87 131.174C145.87 143.348 136 153.217 123.826 153.217C111.652 153.217 101.783 143.348 101.783 131.174C101.783 119 111.652 109.13 123.826 109.13Z" stroke="#2088FF" stroke-width="7.34783" stroke-linecap="round" stroke-linejoin="round"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M123.826 167.913C136 167.913 145.87 177.782 145.87 189.957C145.87 202.131 136 212 123.826 212C111.652 212 101.783 202.131 101.783 189.957C101.783 177.782 111.652 167.913 123.826 167.913Z" stroke="#2088FF" stroke-width="7.34783" stroke-linecap="round" stroke-linejoin="round"/>

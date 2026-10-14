@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><rect width="48" height="48" rx="8" fill="#00D9E8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><defs><linearGradient id="profileTile" x2="1" y2="1"><stop stop-color="#183761"/><stop offset="1" stop-color="#071A3D"/></linearGradient></defs><rect x=".75" y=".75" width="46.5" height="46.5" rx="9" fill="url(#profileTile)" stroke="#2585AF" stroke-width="1.5"/>
   <svg x="5" y="5" width="38" height="38" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
         <g transform="translate(0, 0)">
           <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="256" height="256" rx="60" fill="#242938"/>
+<rect width="256" height="256" rx="60" fill="#10264D"/>
 <path d="M218 218H38V38H218L128 128L218 218Z" fill="url(#paint0_linear_7_120)"/>
 <defs>
 <linearGradient id="paint0_linear_7_120" x1="218" y1="38" x2="38" y2="218" gradientUnits="userSpaceOnUse">

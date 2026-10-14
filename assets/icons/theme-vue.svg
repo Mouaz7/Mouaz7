@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><rect width="48" height="48" rx="8" fill="#00D9E8"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><defs><linearGradient id="profileTile" x2="1" y2="1"><stop stop-color="#183761"/><stop offset="1" stop-color="#071A3D"/></linearGradient></defs><rect x=".75" y=".75" width="46.5" height="46.5" rx="9" fill="url(#profileTile)" stroke="#2585AF" stroke-width="1.5"/>
   <svg x="5" y="5" width="38" height="38" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
     
         <g transform="translate(0, 0)">
-          <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><path fill="#41B883" d="M182 50H218L128 205.25L38 50H73.55H106.85L128 86L148.7 50H182Z"/><path fill="#41B883" d="M38 50L128 205.25L218 50H182L128 143.15L73.55 50H38Z"/><path fill="#fff" d="M73.55 50L128 143.6L182 50H148.7L128 86L106.85 50H73.55Z"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#10264D" rx="60"/><path fill="#41B883" d="M182 50H218L128 205.25L38 50H73.55H106.85L128 86L148.7 50H182Z"/><path fill="#41B883" d="M38 50L128 205.25L218 50H182L128 143.15L73.55 50H38Z"/><path fill="#fff" d="M73.55 50L128 143.6L182 50H148.7L128 86L106.85 50H73.55Z"/></svg>
         </g>
         
   </svg>
