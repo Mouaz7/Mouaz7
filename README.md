@@ -25,7 +25,7 @@
 </div>
 
 <p align="center">
-  <a href="https://mouazdev.vercel.app/" title="Open portfolio"><img src="assets/developer-scene.svg" width="100%" alt="My profile-inspired developer at a laptop, with navy surroundings and warm gold lighting"></a>
+  <a href="https://mouazdev.vercel.app/" title="Open portfolio"><img src="assets/developer-scene-polished.png" width="100%" alt="My profile-inspired developer at a laptop, with navy surroundings and warm gold lighting"></a>
 </p>
 
 <img src="assets/divider.svg" width="100%" />
