@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="430" viewBox="0 0 1100 430"><title>A profile-inspired developer with glasses and a laptop, under a lime-lit lamp between two code monitors</title><defs><linearGradient id="beam" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#c5f77b" stop-opacity=".95"/><stop offset="1" stop-color="#c5f77b" stop-opacity=".03"/></linearGradient><linearGradient id="glass" x2="1" y2="1"><stop stop-color="#aaf6ff"/><stop offset=".5" stop-color="#52daf4"/><stop offset="1" stop-color="#b6f4ff"/></linearGradient><linearGradient id="wall"><stop stop-color="#151c45"/><stop offset="1" stop-color="#213255"/></linearGradient><clipPath id="frame"><rect width="1100" height="430" rx="18"/></clipPath></defs><g clip-path="url(#frame)"><rect width="1100" height="430" fill="url(#wall)"/><path fill="#00d9e8" opacity=".13" d="M340 0h420l-60 430H410z"/><g fill="none" stroke="#00d9e8" opacity=".1" stroke-width="2"><path d="M0 65h280l50 45m-330 183h260l50-37m790-200H828l-50 37m322 215H835l-47-47"/><circle cx="330" cy="110" r="5"/><circle cx="778" cy="93" r="5"/></g><g transform="translate(64 116)"><rect width="246" height="212" rx="13" fill="#182347" stroke="#3c5379" stroke-width="3"/><path d="M0 27h246" stroke="#3c5379" stroke-width="2"/><g fill="#00d9e8"><circle cx="16" cy="14" r="3"/><circle cx="29" cy="14" r="3"/></g><circle cx="42" cy="14" r="3" fill="#c5f77b"/><g stroke-width="5" stroke-linecap="round"><path d="M20 51h93.48M32 70h182.04M32 89h150.06M32 108h201.72" stroke="#00d9e8" opacity=".65"/><path d="M20 132h86.1M32 152h167.28M32 171h125.46000000000001" stroke="#c5f77b" opacity=".75"/></g><path d="M110.7 212v32m-30 0h60" stroke="#536785" stroke-width="5"/></g><g transform="translate(811 134)"><rect width="224" height="188" rx="13" fill="#182347" stroke="#3c5379" stroke-width="3"/><path d="M0 27h224" stroke="#3c5379" stroke-width="2"/><g fill="#00d9e8"><circle cx="16" cy="14" r="3"/><circle cx="29" cy="14" r="3"/></g><circle cx="42" cy="14" r="3" fill="#c5f77b"/><g stroke-width="5" stroke-linecap="round"><path d="M20 51h85.12M32 70h165.76M32 89h136.64M32 108h183.67999999999998" stroke="#00d9e8" opacity=".65"/><path d="M20 132h78.39999999999999M32 152h152.32000000000002M32 171h114.24000000000001" stroke="#c5f77b" opacity=".75"/></g><path d="M100.8 188v32m-30 0h60" stroke="#536785" stroke-width="5"/></g><path d="M48 371h1004" stroke="#415674" stroke-width="5"/><ellipse cx="566" cy="409" rx="260" ry="7" fill="#0c102d" opacity=".5"/>  <g transform="translate(335,1) scale(1)" stroke="#25245f" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Lamp and its pool of light -->
+    <path d="M225 0v69h12V0" fill="#727895"/>
+    <path d="M179 117h107l57 209H91z" fill="url(#beam)" stroke="none"/>
+    <path d="M176 112c5-37 18-43 55-43s50 6 57 43z" fill="#d0d8df"/>
+    <path d="M171 113q59-14 121 0l2 13H169z" fill="#afb7ce"/>
+    <!-- Chair and shoulders -->
+    <path d="M154 376v-57q7-26 72-26t72 26v57" fill="#485171"/>
+    <path d="M147 385l8-49q5-23 34-33h75q34 11 41 37l9 45" fill="#777b9d"/>
+    <path d="M168 324l35 32h45l36-32" fill="#c8f3f5"/>
+    <!-- Head, ears and hair -->
+    <path d="M147 234q-12-86 59-103 64-21 102 40 19 31 1 80l-76 20z" fill="#3f4262"/>
+    <path d="M153 232q-21-6-20 12 0 20 22 22m150-34q21-6 20 12-1 20-23 22" fill="#ffd3b9"/>
+    <path d="M153 215q13-7 22-28 17 24 44 15l-4-13q22 26 47 17l-9-18q19 19 44 22l8 37q-3 63-77 62-65-1-72-49z" fill="#ffd3b9"/>
+    <path d="M151 201l-16-12 12-8-10-7 19-10-1-15 11 9 8-22 4 17q46-43 111-3l17 3-9 8 20 16-17 4 17 19" fill="#3f4262"/>
+    <path d="M177 220q13-11 25-1m56 0q13-11 24 2" fill="none"/>
+    <!-- Glasses -->
+    <circle cx="185" cy="247" r="34" fill="url(#glass)"/>
+    <circle cx="271" cy="247" r="34" fill="url(#glass)"/>
+    <path d="M219 241q9-6 18 0m-86-3-7-4m161 4 6-4" fill="none"/>
+    <g stroke="#e6fcff" stroke-width="7" opacity=".75">
+      <path d="m169 246 17-22m-9 33 23-31m54 20 17-22m-7 33 23-31"/>
+    </g>
+    <path d="M215 284q12 9 25-1" fill="none" stroke-width="4"/>
+    <!-- Arms and laptop -->
+    <path d="M160 343q-23-2-22 20 0 17 29 21m125-41q23-2 22 20-1 17-30 21" fill="#ffd3b9"/>
+    <path d="M164 324h125q10 0 10 11l-9 48H171l-16-48q-3-11 9-11z" fill="#b6c1c8"/>
+    <path d="M160 326h130" stroke="#e1f3f2" stroke-width="3"/>
+    <path d="M217 365q31 3 36-26 14 29-18 36-14 1-18-10z" fill="#f3cc58" stroke="none"/>
+    <path d="M155 384h145l7 8H149z" fill="#8c9caa"/>
+    <!-- Coffee -->
+    <path d="M86 346h37l-5 34H93z" fill="#f4f4e7"/>
+    <path d="M86 352q-21-5-18 12 3 12 22 3" fill="none"/>
+    <path d="M100 355q-9 13 1 15 10-2 9-14z" fill="#8a613e" stroke="none"/>
+    <path d="M97 334q-7-9 3-16m10 16q-7-9 2-16" stroke="#c1fbf4" stroke-width="4" fill="none"/>
+    <!-- Plant and books -->
+    <path d="M324 371q-22-6-16-19 4-8 14-1-5-27 8-24 12 2 5 26 17-11 21 0 3 13-16 18" fill="#b6ee71"/>
+    <path d="M310 371h37l-4 19h-29z" fill="#e1f3ee"/>
+    <path d="m355 388 19-67h32l-19 67z" fill="#5b6b9c"/>
+    <path d="m376 328 22 0-15 52h-20z" fill="#96bed2"/>
+    <!-- Desk -->
+    <path d="M76 393h330v11H76z" fill="#e4d098"/>
+    <path d="M50 405h384" fill="none"/>
+  </g>
+<path d="M0 427h1100" stroke="#00d9e8" stroke-width="6"/></g></svg>
